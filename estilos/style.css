@@ -29,18 +29,20 @@ section#telefone{
     left: 50%;
     transform: translate(-50%, -50%);
 
-    height: 627px;
-    width: 311px;
-    background-image: url(../imagens/frame-iphone.png);
+    height: 500px;
+    width: 248px;
+
+
+    background-image: url(../imagens/frame-iphone\ menor.png);
     background-repeat: no-repeat;
 }
 iframe#tela{
     position: relative;
-    top: 80px;
-    left: 22px;
+    top: 65px;
+    left: 18px;
 
-    height: 471px;
-    width:267px;
+    height: 374px;
+    width:212px;
 }
 section#redesociais{
     text-align: right;
